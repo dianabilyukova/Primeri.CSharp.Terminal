@@ -1,0 +1,6 @@
+D:\aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\HelloAula.exe.config
+D:\aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\HelloAula.exe
+D:\aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\HelloAula.pdb
+D:\aula\primeri.csharp.terminal\HelloAula\HelloAula\obj\Release\HelloAula.csprojResolveAssemblyReference.cache
+D:\aula\primeri.csharp.terminal\HelloAula\HelloAula\obj\Release\HelloAula.exe
+D:\aula\primeri.csharp.terminal\HelloAula\HelloAula\obj\Release\HelloAula.pdb

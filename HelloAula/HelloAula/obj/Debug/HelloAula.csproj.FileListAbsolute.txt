@@ -1,0 +1,1 @@
+D:\aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Debug\HelloAula.exe.config
